@@ -52,6 +52,7 @@ const Intro = styled.div`
   & p {
     text-transform: capitalize;
     font-size: var(--size-400);
+    padding-top:1rem;
   }
 
   @media screen and (max-width: 700px) {

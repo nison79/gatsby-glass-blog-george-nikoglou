@@ -70,7 +70,7 @@ const HeaderTitle = styled.div`
   & a {
     text-transform: uppercase;
     text-decoration: none;
-    font-size: var(--size-400);
+    font-size: var(--size-500);
     color: inherit;
   }
 `;
